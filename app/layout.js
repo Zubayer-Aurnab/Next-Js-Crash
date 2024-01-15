@@ -1,12 +1,12 @@
-import { Roboto } from 'next/font/google'
+import { Roboto } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
 
 const roboto = Roboto({
-  weight: '400',
-  subsets: ['latin'],
-  display: 'swap',
-})
+  weight: "400",
+  subsets: ["latin"],
+  display: "swap",
+});
 
 export const metadata = {
   title: "Create Next App",
@@ -27,6 +27,9 @@ export default function RootLayout({ children }) {
             </li>
             <li>
               <Link href="/blogs">Blogs</Link>
+            </li>
+            <li>
+              <Link href="/post">Post</Link>
             </li>
           </ul>
         </nav>
