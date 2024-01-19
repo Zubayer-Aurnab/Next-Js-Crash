@@ -17,6 +17,9 @@ const AboutLayout = ({ children }) => {
           <li>
             <Link href="/about/vision">Vision</Link>
           </li>
+          <li>
+            <Link href="/">Work</Link>
+          </li>
         </ul>
       </nav>
       {children}
