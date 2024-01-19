@@ -11,7 +11,7 @@ const Mission = () => {
         necessitatibus facere amet ut eum distinctio magni nihil eius,
         consequatur delectus numquam adipisci, consequuntur dignissimos.
         Pariatur vitae ad maxime minus soluta perspiciatis debitis itaque
-        molestiae voluptatum! Amet aut fuga ea fugit veritatis ab modi quis!aadwas aaseaa 
+        molestiae voluptatum! Amet aut fuga ea fugit veritatis ab modi quis!aadwas  
       </p>
       <Button />
     </div>
