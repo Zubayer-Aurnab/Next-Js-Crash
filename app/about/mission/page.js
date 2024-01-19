@@ -6,7 +6,7 @@ const Mission = () => {
     <div className="mt-10">
       <h1>Mission</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam expedita
+        Lorem  Totam expedita
         nisi hic. Quae ducimus facilis iusto ipsum laboriosam commodi
         necessitatibus facere amet ut eum distinctio magni nihil eius,
         consequatur delectus numquam adipisci, consequuntur dignissimos.
