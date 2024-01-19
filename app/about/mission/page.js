@@ -4,7 +4,7 @@ import React from "react";
 const Mission = () => {
   return (
     <div className="mt-10">
-      <h1>Mission</h1>
+      <h1>Mission....</h1>
       <p>
         Lorem  Totam expedita
         nisi hic. Quae ducimus facilis iusto ipsum laboriosam commodi
